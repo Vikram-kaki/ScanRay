@@ -14,7 +14,7 @@ import LearnMoreMRI from './services/LearnMoreMRI';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/ScanRay">
       <GlobalStyles />
       <Header />
       <Routes>
