@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/ScanRay/static/css/main.e6c13ad2.css",
-    "main.js": "/ScanRay/static/js/main.fed03f23.js",
+    "main.js": "/ScanRay/static/js/main.db95171a.js",
     "static/js/453.67ba2fbf.chunk.js": "/ScanRay/static/js/453.67ba2fbf.chunk.js",
     "static/media/fracture-bone-2333164_1920.jpg": "/ScanRay/static/media/fracture-bone-2333164_1920.942eb539875acc615c35.jpg",
     "static/media/ankle-2253057_1920.jpg": "/ScanRay/static/media/ankle-2253057_1920.c8ed10f9e054e5fd4e47.jpg",
     "static/media/xray-1129436_1920.jpg": "/ScanRay/static/media/xray-1129436_1920.b5a74b0bac133012caf3.jpg",
     "index.html": "/ScanRay/index.html",
     "main.e6c13ad2.css.map": "/ScanRay/static/css/main.e6c13ad2.css.map",
-    "main.fed03f23.js.map": "/ScanRay/static/js/main.fed03f23.js.map",
+    "main.db95171a.js.map": "/ScanRay/static/js/main.db95171a.js.map",
     "453.67ba2fbf.chunk.js.map": "/ScanRay/static/js/453.67ba2fbf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.fed03f23.js"
+    "static/js/main.db95171a.js"
   ]
 }
