@@ -175,6 +175,7 @@ function Header() {
 				<Link to="/services" className={location.pathname === '/services' ? 'active' : ''}>Services</Link>
 				<Link to="/contact" className={location.pathname === '/contact' ? 'active' : ''}>Contact</Link>
 				<Link to="/upload" className={location.pathname === '/upload' ? 'active' : ''}>Upload Report</Link>
+				<Link to="/login" className={location.pathname === '/login' ? 'active' : ''}>Login</Link>
 			</Nav>
 			<Sidebar
 				ref={sidebarRef}
@@ -188,6 +189,7 @@ function Header() {
 				<Link to="/services" className={location.pathname === '/services' ? 'active' : ''} onClick={toggleSidebar}>Services</Link>
 				<Link to="/contact" className={location.pathname === '/contact' ? 'active' : ''} onClick={toggleSidebar}>Contact</Link>
 				<Link to="/upload" className={location.pathname === '/upload' ? 'active' : ''} onClick={toggleSidebar}>Upload Report</Link>
+				<Link to="/login" className={location.pathname === '/login' ? 'active' : ''} onClick={toggleSidebar}>Login</Link>
 			</Sidebar>
 		</HeaderWrapper>
 	);

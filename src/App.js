@@ -11,6 +11,7 @@ import ContactUs from './services/ContactUs';
 import LearnMoreXRay from './services/LearnMoreXRay';
 import LearnMoreCTScan from './services/LearnMoreCTScan';
 import LearnMoreMRI from './services/LearnMoreMRI';
+import Login from './services/Login';
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
         <Route path="/services/xray" element={<LearnMoreXRay />} />
         <Route path="/services/ctscan" element={<LearnMoreCTScan />} />
         <Route path="/services/mri" element={<LearnMoreMRI />} />
+        <Route path="/login" element={<Login />} />
       </Routes>
       <Footer />
     </Router>
